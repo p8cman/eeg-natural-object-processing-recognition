@@ -2,7 +2,9 @@
 This project is based on this paper:
 Zhang, G., Zhou, M., Zhen, S. et al. A large-scale MEG and EEG dataset for object recognition in naturalistic scenes. Sci Data 12, 857 (2025). https://doi.org/10.1038/s41597-025-05174-7
 
-Only the epoched EEG data will be used. It can be found on OpenNeuro. OpenNeuro Accession Number: ds005811.
+Only the epoched EEG data will be used. OpenNeuro Accession Number: ds005811.
+It can be found on: https://openneuro.org/datasets/ds005811/versions/1.0.9
+
 Individuals watch 4000 images of natural objects and their stimulus response (animate vs inanimate) is collected.
 Jupyter notebook contains analysis and figures.
 
@@ -42,4 +44,5 @@ Do individuals exhibit different neural activation patterns to different classes
 
 # References
 Larson, E., Gramfort, A., Engemann, D. A., Leppakangas, J., Brodbeck, C., Jas, M., Brooks, T. L., Sassenhagen, J., McCloy, D., Luessi, M., King, J.-R., Höchenberger, R., Brunner, C., Goj, R., Favelier, G., van Vliet, M., Wronkiewicz, M., Appelhoff, S., Rockhill, A., … user27182. (2026). MNE-Python (v1.12.1). Zenodo. https://doi.org/10.5281/zenodo.19666955
+
 Zhang, G., Zhou, M., Zhen, S. et al. A large-scale MEG and EEG dataset for object recognition in naturalistic scenes. Sci Data 12, 857 (2025). https://doi.org/10.1038/s41597-025-05174-7
