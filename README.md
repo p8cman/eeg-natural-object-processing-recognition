@@ -33,7 +33,7 @@ Do individuals exhibit different neural activation patterns to different classes
 # Current workflow
 1.  Plot evoked objects and topomaps
 2.  Plot global field power
-3.  Average natural object classes across channels with ROIs
+3.  Average across channels with ROIs
 4.  Compare between classes
 5.  Compute grand average across subjects
 6.  Extract latency and amplitude
@@ -41,4 +41,5 @@ Do individuals exhibit different neural activation patterns to different classes
 8.  Time-frequency analysis
 
 # References
+Larson, E., Gramfort, A., Engemann, D. A., Leppakangas, J., Brodbeck, C., Jas, M., Brooks, T. L., Sassenhagen, J., McCloy, D., Luessi, M., King, J.-R., Höchenberger, R., Brunner, C., Goj, R., Favelier, G., van Vliet, M., Wronkiewicz, M., Appelhoff, S., Rockhill, A., … user27182. (2026). MNE-Python (v1.12.1). Zenodo. https://doi.org/10.5281/zenodo.19666955
 Zhang, G., Zhou, M., Zhen, S. et al. A large-scale MEG and EEG dataset for object recognition in naturalistic scenes. Sci Data 12, 857 (2025). https://doi.org/10.1038/s41597-025-05174-7
